@@ -16,6 +16,7 @@ def assembled_aoh
 end
 
 def literal_aoh
+  array_ass=[]
   array_ass<<
 end
 
